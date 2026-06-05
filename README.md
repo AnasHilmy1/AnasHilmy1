@@ -67,7 +67,7 @@
     <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" alt="Gmail" width="40" height="40" />
   </a>&nbsp;&nbsp;
   <a href="https://www.kaggle.com/anashh1">
-    <img src="https://raw.githubusercontent.com/krishnakumar06/krishnakumar06/main/icons/kaggle.svg" alt="Kaggle" width="40" height="40" />
+    <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/kaggle.svg" alt="Kaggle" width="40" height="40" />
   </a>
 </p>
 <p align="center"><a href="https://www.buymeacoffee.com/chamidudili" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a></p>
