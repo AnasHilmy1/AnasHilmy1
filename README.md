@@ -60,11 +60,16 @@
 
 ## 🔗 Connect with Me
 <p align="center">
-  <a href="https://www.linkedin.com/in/anashilmh/"><img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&color=00FFFF" alt="Anas Hilmy's LinkedIn"/></a>&nbsp;&nbsp;
-  <a href="mailto:anashilmy1@gmail.com"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=00FFFF" alt="Anas Hilmy's Email"/></a>&nbsp;&nbsp;
-  <a href="https://www.kaggle.com/anashh1"><img align="center" src="https://img.shields.io/badge/Kaggle-%2320BEFF.svg?style=for-the-badge&logo=Kaggle&logoColor=white&color=00FFFF" alt="Anas Hilmy's Kaggle"/></a>
+  <a href="https://www.linkedin.com/in/anashilmh/">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" alt="LinkedIn" width="40" height="40" />
+  </a>&nbsp;&nbsp;
+  <a href="mailto:anashilmy1@gmail.com">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" alt="Gmail" width="40" height="40" />
+  </a>&nbsp;&nbsp;
+  <a href="https://www.kaggle.com/anashh1">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/kaggle.svg" alt="Kaggle" width="40" height="40" style="fill: #20BEFF;" />
+  </a>
 </p>
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter contribution graph" />
 </p>
